@@ -1,0 +1,15 @@
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/bin/Debug/net6.0/AbstraindoRPG
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/bin/Debug/net6.0/AbstraindoRPG.deps.json
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/bin/Debug/net6.0/AbstraindoRPG.runtimeconfig.json
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/bin/Debug/net6.0/AbstraindoRPG.dll
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/bin/Debug/net6.0/AbstraindoRPG.pdb
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/AbstraindoRPG.csproj.AssemblyReference.cache
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/AbstraindoRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/AbstraindoRPG.AssemblyInfoInputs.cache
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/AbstraindoRPG.AssemblyInfo.cs
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/AbstraindoRPG.csproj.CoreCompileInputs.cache
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/AbstraindoRPG.dll
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/refint/AbstraindoRPG.dll
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/AbstraindoRPG.pdb
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/AbstraindoRPG.genruntimeconfig.cache
+/Users/leticiafanandebarros/Desktop/AbstraindoRPG/obj/Debug/net6.0/ref/AbstraindoRPG.dll
